@@ -1,0 +1,19 @@
+{
+  "name": "ultra-list",
+  "version": "0.0.0",
+  "homepage": "https://github.com/jingzhou123/ultra_list",
+  "authors": [
+    "jiwang <jiwang@alibaba-inc.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "requirejs": "~2.1.17"
+  }
+}
