@@ -3,7 +3,7 @@ var mockPost = function(path) {
   return $.when(data);
 };
 var ListViewModel = function() {
-  var path = 'list.json';
+  var path = 'mock/list.json';
   var that = this;
   this.list = ko.observableArray([]);
   this.newItemName = ko.observable('');
